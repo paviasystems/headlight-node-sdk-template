@@ -9,6 +9,7 @@
   "repository": "",
   "author": "{{Author}}",
   "dependencies": {
-    "headlight-node-sdk": "^2.1.8"
+    "headlight-node-sdk": "^2.1.8",
+    "orator": "^1.0.18"
   }
 }
