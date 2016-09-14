@@ -1,4 +1,4 @@
 {
   "AppHash": "{{AppHash}}",
-  "HeadlightServerURL": "http://headlight.headlight-api:8080"
+  "HeadlightServerURL": "http://headlight-api.headlight:8080"
 }
